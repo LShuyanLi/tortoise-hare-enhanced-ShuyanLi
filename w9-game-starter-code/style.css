@@ -106,3 +106,7 @@ button:disabled {
 #log .entry {
 	font-family: monospace;
 }
+
+#scoreboard {
+    border: 2px solid #ccc;
+}
